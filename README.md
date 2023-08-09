@@ -4,6 +4,8 @@ In order to play with mods, you first need to download the 'ModdingTools.zip' fr
 
 For steam, that will be ```C:\Program Files (x86)\Steam\steamapps\common\A Short Hike```
 
+After this, any mods you wish to play with can be extracted into the 'Modding' folder created in the game's root directory.
+
 ---
 
 In order to create a new short hike mod:
