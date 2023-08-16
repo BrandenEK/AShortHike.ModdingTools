@@ -2,7 +2,9 @@
 
 In order to play with mods, you first need to download the 'ModdingTools.zip' from the [Releases](https://github.com/BrandenEK/AShortHike.ModdingTools/releases) page, and then extract it into the game's root directory.
 
-For steam, that will be ```C:\Program Files (x86)\Steam\steamapps\common\A Short Hike```
+- For steam, that will be ```C:\Program Files (x86)\Steam\steamapps\common\A Short Hike```
+
+- For epic games, that will be ```C:\Program Files\Epic Games\AShortHike```
 
 After this, any mods you wish to play with can be extracted into the 'Modding' folder created in the game's root directory.
 
