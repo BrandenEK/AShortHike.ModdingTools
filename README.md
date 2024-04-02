@@ -10,8 +10,8 @@ In order to play with mods, you first need to install the modding tools.
 
 After this, any mods you wish to play with can be extracted into the 'Modding' folder created in the game's root directory.
 
-## Building From Source
+## Mod development
 
-In order to create a new short hike mod:
+Command to create a new plugin template:
 
 ```dotnet new bepinex5plugin -n ExampleMod -T netstandard2.0 -U 2019.4.29```
